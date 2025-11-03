@@ -1,1 +1,8 @@
-# CC-2026-application-development-checkpoint-5
+﻿# Application Development
+
+**Ciclo:** checkpoint-5  
+**Semestre:** semestre:s4  
+**Ano:** 2026  
+
+> Repositorio publico criado para a disciplina **Application Development** no contexto do ciclo **checkpoint-5** (FIAP 2026).
+
